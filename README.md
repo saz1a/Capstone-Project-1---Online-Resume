@@ -1,2 +1,2 @@
-# Capstone-Project-1-Online-Resume
-html project creating online Resume
+# Capstone-Project-1-Online-Resume-HTML
+HTML project Creating Online Resume
