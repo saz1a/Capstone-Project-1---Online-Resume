@@ -1,2 +1,2 @@
 # Online-Resume & Portfolio -HTML
-HTML project Creating Online Resume & Portfolio
+Online Resume & Portfolio-HTML project
